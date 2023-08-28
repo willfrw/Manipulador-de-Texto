@@ -1,7 +1,5 @@
 # Manipulador de Texto em Python
 
-![GitHub](https://img.shields.io/github/license/SEU-USUARIO-AQUI/Manipulador-de-Texto) ![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO-AQUI/Manipulador-de-Texto)
-
 Bem-vindo ao Manipulador de Texto, um projeto desenvolvido como parte do curso de Laboratório de Programação. Este programa em Python foi criado para realizar diversas tarefas de manipulação de arquivos de texto de forma eficiente e interativa.
 
 ## Funcionalidades Principais
